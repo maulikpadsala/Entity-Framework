@@ -1,0 +1,83 @@
+D:\sqliteMigration\sqliteMigration\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\sqliteMigration\sqliteMigration\bin\Debug\netcoreapp3.1\appsettings.json
+D:\sqliteMigration\sqliteMigration\bin\Debug\netcoreapp3.1\sqliteMigration.exe
+D:\sqliteMigration\sqliteMigration\bin\Debug\netcoreapp3.1\sqliteMigration.deps.json
+D:\sqliteMigration\sqliteMigration\bin\Debug\netcoreapp3.1\sqliteMigration.runtimeconfig.json
+D:\sqliteMigration\sqliteMigration\bin\Debug\netcoreapp3.1\sqliteMigration.runtimeconfig.dev.json
+D:\sqliteMigration\sqliteMigration\bin\Debug\netcoreapp3.1\sqliteMigration.dll
+D:\sqliteMigration\sqliteMigration\bin\Debug\netcoreapp3.1\sqliteMigration.pdb
+D:\sqliteMigration\sqliteMigration\bin\Debug\netcoreapp3.1\sqliteMigration.Views.dll
+D:\sqliteMigration\sqliteMigration\bin\Debug\netcoreapp3.1\sqliteMigration.Views.pdb
+D:\sqliteMigration\sqliteMigration\obj\Debug\netcoreapp3.1\sqliteMigration.csproj.AssemblyReference.cache
+D:\sqliteMigration\sqliteMigration\obj\Debug\netcoreapp3.1\sqliteMigration.AssemblyInfoInputs.cache
+D:\sqliteMigration\sqliteMigration\obj\Debug\netcoreapp3.1\sqliteMigration.AssemblyInfo.cs
+D:\sqliteMigration\sqliteMigration\obj\Debug\netcoreapp3.1\sqliteMigration.csproj.CoreCompileInputs.cache
+D:\sqliteMigration\sqliteMigration\obj\Debug\netcoreapp3.1\sqliteMigration.MvcApplicationPartsAssemblyInfo.cache
+D:\sqliteMigration\sqliteMigration\obj\Debug\netcoreapp3.1\sqliteMigration.RazorAssemblyInfo.cache
+D:\sqliteMigration\sqliteMigration\obj\Debug\netcoreapp3.1\sqliteMigration.RazorAssemblyInfo.cs
+D:\sqliteMigration\sqliteMigration\obj\Debug\netcoreapp3.1\staticwebassets\sqliteMigration.StaticWebAssets.Manifest.cache
+D:\sqliteMigration\sqliteMigration\obj\Debug\netcoreapp3.1\staticwebassets\sqliteMigration.StaticWebAssets.xml
+D:\sqliteMigration\sqliteMigration\obj\Debug\netcoreapp3.1\scopedcss\bundle\sqliteMigration.styles.css
+D:\sqliteMigration\sqliteMigration\obj\Debug\netcoreapp3.1\sqliteMigration.TagHelpers.input.cache
+D:\sqliteMigration\sqliteMigration\obj\Debug\netcoreapp3.1\sqliteMigration.TagHelpers.output.cache
+D:\sqliteMigration\sqliteMigration\obj\Debug\netcoreapp3.1\sqliteMigration.RazorCoreGenerate.cache
+D:\sqliteMigration\sqliteMigration\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+D:\sqliteMigration\sqliteMigration\obj\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
+D:\sqliteMigration\sqliteMigration\obj\Debug\netcoreapp3.1\Razor\Pages\Privacy.cshtml.g.cs
+D:\sqliteMigration\sqliteMigration\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+D:\sqliteMigration\sqliteMigration\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\sqliteMigration\sqliteMigration\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+D:\sqliteMigration\sqliteMigration\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+D:\sqliteMigration\sqliteMigration\obj\Debug\netcoreapp3.1\sqliteMigration.RazorTargetAssemblyInfo.cache
+D:\sqliteMigration\sqliteMigration\obj\Debug\netcoreapp3.1\sqliteMigration.RazorTargetAssemblyInfo.cs
+D:\sqliteMigration\sqliteMigration\obj\Debug\netcoreapp3.1\sqliteMigration.Views.pdb
+D:\sqliteMigration\sqliteMigration\obj\Debug\netcoreapp3.1\sqliteMigration.dll
+D:\sqliteMigration\sqliteMigration\obj\Debug\netcoreapp3.1\sqliteMigration.pdb
+D:\sqliteMigration\sqliteMigration\obj\Debug\netcoreapp3.1\sqliteMigration.genruntimeconfig.cache
+D:\sqliteMigration\sqliteMigration\obj\Debug\netcoreapp3.1\sqliteMigration.csproj.CopyComplete
+D:\Harpal Paghadal\ASPNetCore\SqlMigration\sqliteMigration\sqliteMigration\obj\Debug\netcoreapp3.1\sqliteMigration.dll
+D:\Harpal Paghadal\ASPNetCore\SqlMigration\sqliteMigration\sqliteMigration\obj\Debug\netcoreapp3.1\sqliteMigration.pdb
+D:\Harpal Paghadal\ASPNetCore\SqlMigration\sqliteMigration\sqliteMigration\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Harpal Paghadal\ASPNetCore\SqlMigration\sqliteMigration\sqliteMigration\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Harpal Paghadal\ASPNetCore\SqlMigration\sqliteMigration\sqliteMigration\bin\Debug\netcoreapp3.1\sqliteMigration.exe
+D:\Harpal Paghadal\ASPNetCore\SqlMigration\sqliteMigration\sqliteMigration\bin\Debug\netcoreapp3.1\sqliteMigration.deps.json
+D:\Harpal Paghadal\ASPNetCore\SqlMigration\sqliteMigration\sqliteMigration\bin\Debug\netcoreapp3.1\sqliteMigration.runtimeconfig.json
+D:\Harpal Paghadal\ASPNetCore\SqlMigration\sqliteMigration\sqliteMigration\bin\Debug\netcoreapp3.1\sqliteMigration.runtimeconfig.dev.json
+D:\Harpal Paghadal\ASPNetCore\SqlMigration\sqliteMigration\sqliteMigration\bin\Debug\netcoreapp3.1\sqliteMigration.dll
+D:\Harpal Paghadal\ASPNetCore\SqlMigration\sqliteMigration\sqliteMigration\bin\Debug\netcoreapp3.1\sqliteMigration.pdb
+D:\Harpal Paghadal\ASPNetCore\SqlMigration\sqliteMigration\sqliteMigration\bin\Debug\netcoreapp3.1\sqliteMigration.Views.dll
+D:\Harpal Paghadal\ASPNetCore\SqlMigration\sqliteMigration\sqliteMigration\bin\Debug\netcoreapp3.1\sqliteMigration.Views.pdb
+D:\Harpal Paghadal\ASPNetCore\SqlMigration\sqliteMigration\sqliteMigration\obj\Debug\netcoreapp3.1\sqliteMigration.GeneratedMSBuildEditorConfig.editorconfig
+D:\Harpal Paghadal\ASPNetCore\SqlMigration\sqliteMigration\sqliteMigration\obj\Debug\netcoreapp3.1\sqliteMigration.AssemblyInfoInputs.cache
+D:\Harpal Paghadal\ASPNetCore\SqlMigration\sqliteMigration\sqliteMigration\obj\Debug\netcoreapp3.1\sqliteMigration.AssemblyInfo.cs
+D:\Harpal Paghadal\ASPNetCore\SqlMigration\sqliteMigration\sqliteMigration\obj\Debug\netcoreapp3.1\sqliteMigration.csproj.CoreCompileInputs.cache
+D:\Harpal Paghadal\ASPNetCore\SqlMigration\sqliteMigration\sqliteMigration\obj\Debug\netcoreapp3.1\sqliteMigration.MvcApplicationPartsAssemblyInfo.cache
+D:\Harpal Paghadal\ASPNetCore\SqlMigration\sqliteMigration\sqliteMigration\obj\Debug\netcoreapp3.1\sqliteMigration.RazorAssemblyInfo.cache
+D:\Harpal Paghadal\ASPNetCore\SqlMigration\sqliteMigration\sqliteMigration\obj\Debug\netcoreapp3.1\sqliteMigration.RazorAssemblyInfo.cs
+D:\Harpal Paghadal\ASPNetCore\SqlMigration\sqliteMigration\sqliteMigration\obj\Debug\netcoreapp3.1\staticwebassets\sqliteMigration.StaticWebAssets.Manifest.cache
+D:\Harpal Paghadal\ASPNetCore\SqlMigration\sqliteMigration\sqliteMigration\obj\Debug\netcoreapp3.1\staticwebassets\sqliteMigration.StaticWebAssets.xml
+D:\Harpal Paghadal\ASPNetCore\SqlMigration\sqliteMigration\sqliteMigration\obj\Debug\netcoreapp3.1\scopedcss\bundle\sqliteMigration.styles.css
+D:\Harpal Paghadal\ASPNetCore\SqlMigration\sqliteMigration\sqliteMigration\obj\Debug\netcoreapp3.1\sqliteMigration.TagHelpers.input.cache
+D:\Harpal Paghadal\ASPNetCore\SqlMigration\sqliteMigration\sqliteMigration\obj\Debug\netcoreapp3.1\sqliteMigration.TagHelpers.output.cache
+D:\Harpal Paghadal\ASPNetCore\SqlMigration\sqliteMigration\sqliteMigration\obj\Debug\netcoreapp3.1\sqliteMigration.RazorCoreGenerate.cache
+D:\Harpal Paghadal\ASPNetCore\SqlMigration\sqliteMigration\sqliteMigration\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+D:\Harpal Paghadal\ASPNetCore\SqlMigration\sqliteMigration\sqliteMigration\obj\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
+D:\Harpal Paghadal\ASPNetCore\SqlMigration\sqliteMigration\sqliteMigration\obj\Debug\netcoreapp3.1\Razor\Pages\Privacy.cshtml.g.cs
+D:\Harpal Paghadal\ASPNetCore\SqlMigration\sqliteMigration\sqliteMigration\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+D:\Harpal Paghadal\ASPNetCore\SqlMigration\sqliteMigration\sqliteMigration\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Harpal Paghadal\ASPNetCore\SqlMigration\sqliteMigration\sqliteMigration\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+D:\Harpal Paghadal\ASPNetCore\SqlMigration\sqliteMigration\sqliteMigration\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+D:\Harpal Paghadal\ASPNetCore\SqlMigration\sqliteMigration\sqliteMigration\obj\Debug\netcoreapp3.1\sqliteMigration.RazorTargetAssemblyInfo.cache
+D:\Harpal Paghadal\ASPNetCore\SqlMigration\sqliteMigration\sqliteMigration\obj\Debug\netcoreapp3.1\sqliteMigration.RazorTargetAssemblyInfo.cs
+D:\Harpal Paghadal\ASPNetCore\SqlMigration\sqliteMigration\sqliteMigration\obj\Debug\netcoreapp3.1\sqliteMigration.Views.pdb
+D:\Harpal Paghadal\ASPNetCore\SqlMigration\sqliteMigration\sqliteMigration\obj\Debug\netcoreapp3.1\sqliteMigration.genruntimeconfig.cache
+D:\Harpal Paghadal\ASPNetCore\SqlMigration\sqliteMigration\sqliteMigration\obj\Debug\netcoreapp3.1\sqliteMigration.csproj.CopyComplete
+D:\Harpal Paghadal\ASPNetCore\SqlMigration\sqliteMigration\sqliteMigration\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+D:\Harpal Paghadal\ASPNetCore\SqlMigration\sqliteMigration\sqliteMigration\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+D:\Harpal Paghadal\ASPNetCore\SqlMigration\sqliteMigration\sqliteMigration\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\Harpal Paghadal\ASPNetCore\SqlMigration\sqliteMigration\sqliteMigration\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Harpal Paghadal\ASPNetCore\SqlMigration\sqliteMigration\sqliteMigration\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\Harpal Paghadal\ASPNetCore\SqlMigration\sqliteMigration\sqliteMigration\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Harpal Paghadal\ASPNetCore\SqlMigration\sqliteMigration\sqliteMigration\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+D:\Harpal Paghadal\ASPNetCore\SqlMigration\sqliteMigration\sqliteMigration\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+D:\Harpal Paghadal\ASPNetCore\SqlMigration\sqliteMigration\sqliteMigration\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll

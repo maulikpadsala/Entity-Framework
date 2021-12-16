@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = sqliteMigration
+build_property.ProjectDir = D:\Harpal Paghadal\ASPNetCore\SqlMigration\sqliteMigration\sqliteMigration\
